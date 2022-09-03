@@ -16,7 +16,6 @@ export const logo = 'https://1000logos.net/wp-content/uploads/2017/05/New-YouTub
 
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
-    { name: 'JS Mastery', icon: <CodeIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'ReactJS', icon: <CodeIcon />, },
     { name: 'NextJS', icon: <CodeIcon />, },
