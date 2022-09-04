@@ -16,6 +16,7 @@ export const logo = 'https://1000logos.net/wp-content/uploads/2017/05/New-YouTub
 
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
+    { name: 'Sadhguru', icon: <GraphicEqIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'ReactJS', icon: <CodeIcon />, },
     { name: 'NextJS', icon: <CodeIcon />, },
@@ -32,3 +33,10 @@ export const categories = [
     { name: 'Gym', icon: <FitnessCenterIcon />, },
     { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
+
+export const demoThumbnailUrl = 'https://i.ytimg.com/vi/5sXEjKW3bHc/hq720.jpg?sqp=-%E2%80%A6AFwAcABBg==&rs=AOn4CLCqXdYY75KN3iPuqWDWh9iNHBMT0w';
+export const demoChannelUrl = '/channel/sadhguru';
+export const demoVideoUrl = '/video/5sXEjKW3bHc';
+export const demoChannelTitle = 'Sadhguru';
+export const demoVideoTitle = 'How to Unlock Your Innate Genius';
+export const demoProfilePicture = 'https://yt3.ggpht.com/jBfoRxDyDktypbBYYra8woH5YUM9C89E7bDEE2c6qcEjjbGDRXYJEJZd0oyBpMGalKk5Nz8F6Jo=s88-c-k-c0x00ffffff-no-rj'
